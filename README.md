@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-BSc Computer Science @ Univeristy of Birmingham
+BSc Computer Science @ University of Birmingham
 
 ---
